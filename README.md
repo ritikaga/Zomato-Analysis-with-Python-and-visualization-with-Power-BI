@@ -2,12 +2,11 @@
 ![image](https://github.com/ritikaga/Data-Analysis-of-Zomato-Restaurant/assets/66274316/c358d249-02e2-4bc2-932b-387fdf56d469)
 
 ## Project Objective
-In this project, we investigate a dataset that carries approximate facts about the restaurant chains in Bangalore that also run on Zomato. The project's main aim is to perform descriptive and statistical analysis based on a few goals designed.
+In this project, we investigate a dataset that carries approximate facts about restaurant chains all over the world. The project's main aim is to perform descriptive and statistical analysis based on a few goals designed.
 
 ## Dataset
 The dataset provides information like an average cost for two, location, votes, the aggregate rating, cuisines, country, rating text, etc. Various analysis like the top cuisines, most expensive restaurants, average rating for each country, and many other analysis are performed on the dataset.
 The dataset's owner is Zomato and Kaggle is the source providing the data.
-* https://www.kaggle.com/shrutimehta/zomato-restaurants-data
 
 
 ## Zamoto Analysis
