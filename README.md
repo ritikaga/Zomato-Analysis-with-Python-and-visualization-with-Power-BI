@@ -1,4 +1,4 @@
-# Data-Analysis-of-Zomato-Restaurant
+# Analysis-of-Zomato-with-python and dashboard with Power-Bi
 ![image](https://github.com/ritikaga/Data-Analysis-of-Zomato-Restaurant/assets/66274316/c358d249-02e2-4bc2-932b-387fdf56d469)
 
 ## Project Objective
