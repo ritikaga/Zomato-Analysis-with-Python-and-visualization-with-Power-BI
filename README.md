@@ -11,28 +11,30 @@ The dataset's owner is Zomato and Kaggle is the source providing the data.
 
 ## Zamoto Analysis
 * Load the Raw Data.
-* Data cleaning is performed on data to obtain consistent and better results.
+* Data cleaning is performed on Python libraries Numpy, and pandas.
 * Made sure data is Dropping unnecessary columns, Dropping duplicate rows, and Cleaning individual rows.
-* we have cleaned our data, and it is ready for analysis.
+* we have cleaned our data, and it is ready for developing the Interactive Dashboard.
 
 ## Questions
 The analysis that we are going to perform shall answer the following questions:
 
+* Total restaurants and total cuisines all over the world?
 * Which countries have the greatest number of restaurants enrolled in Zomato?
 * Which cities in India have the greatest number of "value for money restaurants?
-* Which cities in the top four countries have the highest average aggregate rating for restaurants?
 * What are the top 10 cuisines that have the highest number of votes in India.?
 * Which countries have restaurants that deliver online?
 * In terms of the number of restaurants, which locality has the most?
-* How many restaurants are rated Good, Average, Excellent, etc....?
-* What are the top two countries in terms of the number of restaurants that opened?
-* Which month had the greatest number of restaurant openings?
+* Which Restaurants have Good Cuisine and an average rating?
+
+## Dashboard
+<img width="1500" alt="Dashboard snapshort" src="https://github.com/ritikaga/Zomato-Analysis-with-Python-and-visualization-with-Power-BI/assets/66274316/697a2508-fb25-4f8d-829b-803371175bf7">
 
 
 ## Conclusion
 * The dataset shows the restaurants with the highest cost for two, countries with a greater number of restaurants on Zomato, countries with 
   restaurants that offer online delivery, average aggregate rating for countries, etc.
-* Based on our analysis performed, the restaurants present in different localities can improve the quality of the restaurant, deliver online, 
-  work on days that have an average aggregate rating, and check for value-added restaurants to check on how they work and can implement a few techniques like including both online delivery and table booking, providing various cuisines to visitors, etc.
+* Based on our analysis performed, the restaurants present in different localities can improve the quality of the restaurant, deliver online,work on days that have an average aggregate rating, 
+  and check for value-added restaurants to check on how they work and can implement a few techniques like including both online delivery and table booking, providing various cuisines to 
+  visitors, etc.
 * It is easy for frequent visitor's filter based on the average cost for two, votes, the aggregate rating, cuisines, etc. This can be done before 
   visiting the restaurant
