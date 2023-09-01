@@ -13,7 +13,7 @@ The dataset's owner is Zomato and Kaggle is the source providing the data.
 * Load the Raw Data.
 * Data cleaning is performed on Python libraries Numpy, and pandas.
 * Made sure data is Dropping unnecessary columns, Dropping duplicate rows, and Cleaning individual rows.
-* we have cleaned our data, and it is ready for developing the Interactive Dashboard.
+* Cleaned the data, and it is ready for developing the Interactive Dashboard.
 
 ## Questions
 The analysis that we are going to perform shall answer the following questions:
